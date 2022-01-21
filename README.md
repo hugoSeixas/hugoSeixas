@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/hugoSeixas">
-  <img height="130em"   align="center" src="https://github-readme-stats.vercel.app/api?username=hugoSeixas&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="130em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoSeixas&layout=compact&langs_count=7&theme=synthwave" />
+  <img height="148em"   align="center" src="https://github-readme-stats.vercel.app/api?username=hugoSeixas&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="148em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoSeixas&layout=compact&langs_count=7&theme=synthwave" />
 </div>
   
 <br> 
@@ -27,3 +27,5 @@
   <a href="https://instagram.com/hgin03" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "hseixas.freitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
+  ![Snake animation](https://github.com/hugoSeixas/hugoSeixas/blob/output/github-contribution-grid-snake.svg)
+  </div>
