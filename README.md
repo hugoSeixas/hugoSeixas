@@ -1,7 +1,7 @@
 ### Opa, me chamo Hugo mas pode me chamar de Pikachu 🙃
 
 -  ⍨ Atualmente estou aprimorando meu html e css
--  ⍨ Estou procurando ajuda com js
+-  ⍨ Estou procurando ajuda com js e python
 -  ⍨ Pronomes: ele/dele
 
 <div>
