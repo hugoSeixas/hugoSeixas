@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/hugoSeixas">
-  <img height="146em"   align="center" src="https://github-readme-stats.vercel.app/api?username=hugoSeixas&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="146em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoSeixas&layout=compact&langs_count=7&theme=synthwave" />
+  <img height="140em"   align="center" src="https://github-readme-stats.vercel.app/api?username=hugoSeixas&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="140em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoSeixas&layout=compact&langs_count=7&theme=synthwave" />
 </div>
   
 <br> 
