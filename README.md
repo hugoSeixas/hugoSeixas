@@ -1,4 +1,4 @@
-### Oii, me chamo Hugo Seixas!
+### Salve, me chamo Hugo Seixas 🫡
 -  Estudando e aprimorando python 🐍
   
 <br> 
