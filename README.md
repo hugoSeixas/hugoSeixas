@@ -1,20 +1,11 @@
 ### Oii, me chamo Hugo Seixas!
 -  Estudando e aprimorando python 🐍
-
-<div>
-  <a href="https://github.com/hugoSeixas">
-  <img height="140em"   align="center" src="https://github-readme-stats.vercel.app/api?username=hugoSeixas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoSeixas&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
 <br> 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="" height="180" style="border-radius:50px;" src="https://i.pinimg.com/564x/4f/86/98/4f869886eb5b4170d80b2c199550686e.jpg">
+  <img align="right" alt="" height="180" style="border-radius:50px;" src="https://i.pinimg.com/originals/23/1f/9c/231f9c7f8892c629ee880cd26a3e2eb1.gif">
 </div>
   
 ##
